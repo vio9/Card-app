@@ -9,7 +9,7 @@ import Button from '@material-ui/core/Button';
 
 
 const Container = styled.div`
-width:50%;
+width:70%;
 background-image: linear-gradient(to bottom, #6593A6, #004673);
 color: #5cb9f2;
 justify-content:center;
